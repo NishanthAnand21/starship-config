@@ -29,7 +29,7 @@ Follow the official [Starship installation guide](https://starship.rs/guide/#ðŸš
 **Clone this Repository:**
 
 ```
-$ git clone https://github.com/yourusername/starship-configuration.git
+$ git clone https://github.com/NishanthAnand21/starship-config.git
 
 Copy Configuration File:
 
